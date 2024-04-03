@@ -57,7 +57,8 @@ void loop() {
 ```
 
 ## CIRCUIT DIAGRAM:
-<img src="https://github.com/naveen-m0804/Control-of-Relay-Using-IoT-controller/assets/117974950/23ba36ce-c091-43c3-806c-0f4c34bebbda"alt="alt text" width="500" height="300" class="center">
+<img src="https://github.com/naveen-m0804/Control-of-Relay-Using-IoT-controller/assets/117974950/172da698-a33a-43bd-8918-60bf6cd9f8af" alt="alt text" width="500" height="300" class="center">
+
 ## OUTPUT:
 
 ### ON
